@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/temporada-3-programa-8.html",
+            "url": "https://islatentaciones.tk/temporada-3-programa-8.html",
+            "title": "Programa 8",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/3861934639642\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Programas Temporada 3"
+            ],
+            "date_published": "2022-08-13T16:26:38+01:00",
+            "date_modified": "2022-08-13T16:29:02+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/temporada-3-programa-7.html",
             "url": "https://islatentaciones.tk/temporada-3-programa-7.html",
             "title": "Programa 7",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2022-08-12T19:27:45+01:00",
             "date_modified": "2022-08-12T19:29:04+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/ultima-tentacion-6.html",
-            "url": "https://islatentaciones.tk/ultima-tentacion-6.html",
-            "title": "Programa 6",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/3287448816308\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Programas La Última Tentación",
-                   "La Última Tentación"
-            ],
-            "date_published": "2022-08-12T18:58:38+01:00",
-            "date_modified": "2022-08-12T19:29:16+01:00"
         }
     ]
 }
