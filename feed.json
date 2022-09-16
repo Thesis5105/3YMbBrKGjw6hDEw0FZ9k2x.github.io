@@ -15,7 +15,7 @@
             "url": "https://islatentaciones.tk/rumbo-a-la-isla-de-las-tentaciones.html",
             "title": "Rumbo a la isla de las tentaciones",
             "summary": "Disponible a partir de las 09:00 (hora no confirmada)",
-            "content_html": "<p>Disponible a partir de las 09:00 (hora no confirmada)</p>\n<p>\n<script src=\"//ssl.p.jwpcdn.com/player/v/8.25.8/jwplayer.js\"></script>\n<script>jwplayer.key = \"XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo\"</script>\n<script src=\"//cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js\"></script>\n<script src=\"//cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js\"></script>\n<script src=\"//cdn.jsdelivr.net/npm/hls.js@latest\"></script>\n</p>\n<div id=\"player\"></div>\n<p>\n<script>\n         if(Hls.isSupported() && p2pml.hlsjs.Engine.isSupported()) {\n         \tvar engine = new p2pml.hlsjs.Engine();\n         \tvar player = jwplayer(\"player\");\n         \tplayer.setup({\n         \t\tfile: \"\",\n         \t\theight: \"100%\",\n         \t\twidth: \"100%\",\n         \t\tautostart: false,\n         \t\tcast: {}\n         \t});\n         \tjwplayer_hls_provider.attach();\n         \tp2pml.hlsjs.initJwPlayer(player, {\n         \t\tliveSyncDurationCount: 7,\n         \t\tloader: engine.createLoaderClass(),\n         \t});\n         } else {\n         \tdocument.write(\"Not supported :(\");\n         }\n      </script>\n</p>",
+            "content_html": "<p>Disponible a partir de las 09:00 (hora no confirmada)</p>\n<p> </p>",
             "author": {
                 "name": "islatentaciones"
             },
@@ -24,7 +24,7 @@
                    "Programas Temporada 5"
             ],
             "date_published": "2022-09-15T23:58:27+01:00",
-            "date_modified": "2022-09-16T07:33:08+01:00"
+            "date_modified": "2022-09-16T07:42:40+01:00"
         },
         {
             "id": "https://islatentaciones.tk/la-nueva-web-de-islatentaciones-ml.html",
