@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-09-16T08:01:41+01:00</updated>
+    <updated>2022-09-16T08:03:36+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,16 +19,11 @@
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
 
-        <updated>2022-09-16T08:01:41+01:00</updated>
+        <updated>2022-09-16T08:03:36+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <div id="player"></div>
-<p>
-<script>
-    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/6a/89/6a89f8dd-d4f1-437b-bb0e-d058bf42d768/main.ism/picky.m3u8?hdnts=st=1663311509~exp=1663325908~acl=/*~hmac=7cc8b0ce19f2b3012fdd787a4126064ab11e3d6596ce2d09357a18c6d547b22a", parentId: "#player"});
-  </script>
-</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4619329145404" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
