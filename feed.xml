@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-09-18T23:51:20+01:00</updated>
+    <updated>2022-09-19T07:56:20+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,10 +19,10 @@
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
 
-        <updated>2022-09-18T23:51:20+01:00</updated>
+        <updated>2022-09-19T07:56:20+01:00</updated>
             <summary>
                 <![CDATA[
-                    Parte 1 Parte 2 Disponible hoy a las 09:00 (hora no confirmada)
+                    Parte 1 Parte 2
                 ]]>
             </summary>
         <content type="html">
@@ -30,7 +30,12 @@
                 <h2 class="align-center"><span style="color: #169179;"><strong>Parte 1</strong></span></h2>
 <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4619329145404" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
 <h2 class="align-center"><span style="color: #169179;"><strong>Parte 2</strong></span></h2>
-<p class="align-center"><em>Disponible hoy a las 09:00 (hora no confirmada)</em></p>
+<div id="player"></div>
+<p>
+<script>
+    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/08/75/0875435a-1da3-4957-94fc-aec0b5f71838/main.ism/picky.m3u8?hdnts=st=1663570557~exp=1663584957~acl=/*~hmac=ff508bc48edd1385397ca721f108af408aeade18e0f57767c4cff39e5955a550", parentId: "#player"});
+  </script>
+</p>
             ]]>
         </content>
     </entry>
