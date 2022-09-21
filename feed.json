@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/programacion.html",
+            "url": "https://islatentaciones.tk/programacion.html",
+            "title": "Programación",
+            "summary": "Lunes - El debate de las tentaciones en Cuatro a las 22:00 - La isla de las tentaciones en Telecinco a las 22:50",
+            "content_html": "<h3 class=\"align-center\"><strong><span style=\"color: #169179;\">Lunes</span></strong></h3>\n<p class=\"align-center\">- El debate de las tentaciones en <span style=\"text-decoration: underline; color: #ba372a;\"><strong><a href=\"https://toptele.ml/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ba372a;\">Cuatro</a></strong> </span>a las 22:00</p>\n<h3 class=\"align-center\"><strong><span style=\"color: #169179;\">Miércoles</span></strong></h3>\n<p class=\"align-center\">- La isla de las tentaciones en <span style=\"color: #236fa1;\"><strong><a href=\"https://toptele.ml/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #236fa1;\">Telecinco</a></strong></span> a las 22:50</p>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-21T21:03:55+01:00",
+            "date_modified": "2022-09-21T21:03:55+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/y-ahora-la-isla-de-las-tentaciones-1.html",
             "url": "https://islatentaciones.tk/y-ahora-la-isla-de-las-tentaciones-1.html",
             "title": "Y ahora... La isla de las tentaciones 1",
@@ -144,21 +158,6 @@
             ],
             "date_published": "2022-08-12T22:57:38+01:00",
             "date_modified": "2022-08-12T23:30:12+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/temporada-3-programa-5.html",
-            "url": "https://islatentaciones.tk/temporada-3-programa-5.html",
-            "title": "Programa 5",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/2947624602172\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas Temporada 3"
-            ],
-            "date_published": "2022-08-12T22:49:47+01:00",
-            "date_modified": "2022-08-12T22:53:18+01:00"
         }
     ]
 }
