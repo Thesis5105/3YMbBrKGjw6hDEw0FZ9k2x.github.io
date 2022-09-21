@@ -14,7 +14,7 @@
             "id": "https://islatentaciones.tk/temporada-5-programa-1.html",
             "url": "https://islatentaciones.tk/temporada-5-programa-1.html",
             "title": "Programa 1",
-            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/0d/bd/0dbd61ab-6234-4123-b912-9398f5edbefa/main.ism/picky.m3u8?hdnts=st=1663803208~exp=1663817607~acl=/*~hmac=43ad0e76f319ddcdd2e7e6d1d7d9043e8480ca126db109579c6f6b35260a7548\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4638402808380\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "islatentaciones"
             },
@@ -23,7 +23,7 @@
                    "Programas Temporada 5"
             ],
             "date_published": "2022-09-21T23:48:57+01:00",
-            "date_modified": "2022-09-22T00:38:16+01:00"
+            "date_modified": "2022-09-22T00:55:34+01:00"
         },
         {
             "id": "https://islatentaciones.tk/programacion.html",
@@ -52,7 +52,7 @@
                    "Programas Temporada 5"
             ],
             "date_published": "2022-09-21T20:37:20+01:00",
-            "date_modified": "2022-09-21T20:53:41+01:00"
+            "date_modified": "2022-09-22T00:54:51+01:00"
         },
         {
             "id": "https://islatentaciones.tk/rumbo-a-la-isla-de-las-tentaciones.html",
