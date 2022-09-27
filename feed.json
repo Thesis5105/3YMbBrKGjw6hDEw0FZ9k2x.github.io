@@ -14,7 +14,7 @@
             "id": "https://islatentaciones.tk/debate-1-07882.html",
             "url": "https://islatentaciones.tk/debate-1-07882.html",
             "title": "Debate 1",
-            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/2d/b9/2db98b86-69ea-4d5e-81f0-e4125ed12b8d/main.ism/picky.m3u8?hdnts=st=1664264450~exp=1664278850~acl=/*~hmac=9921b6449964a350480884f6d6d06ee75ea467b31a110b33b2fd860d90bdcf72\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4655305132604\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "islatentaciones"
             },
@@ -23,7 +23,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-09-27T08:38:49+01:00",
-            "date_modified": "2022-09-27T08:41:07+01:00"
+            "date_modified": "2022-09-27T08:59:11+01:00"
         },
         {
             "id": "https://islatentaciones.tk/temporada-5-programa-1.html",
@@ -67,7 +67,7 @@
                    "Programas Temporada 5"
             ],
             "date_published": "2022-09-21T20:37:20+01:00",
-            "date_modified": "2022-09-22T00:54:51+01:00"
+            "date_modified": "2022-09-27T08:56:56+01:00"
         },
         {
             "id": "https://islatentaciones.tk/rumbo-a-la-isla-de-las-tentaciones.html",
