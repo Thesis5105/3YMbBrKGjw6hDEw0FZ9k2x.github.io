@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate-1-07882.html",
+            "url": "https://islatentaciones.tk/debate-1-07882.html",
+            "title": "Debate 1",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/2d/b9/2db98b86-69ea-4d5e-81f0-e4125ed12b8d/main.ism/picky.m3u8?hdnts=st=1664264450~exp=1664278850~acl=/*~hmac=9921b6449964a350480884f6d6d06ee75ea467b31a110b33b2fd860d90bdcf72\", parentId: \"#player\"});\n  </script>\n</p>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-09-27T08:38:49+01:00",
+            "date_modified": "2022-09-27T08:41:07+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/temporada-5-programa-1.html",
             "url": "https://islatentaciones.tk/temporada-5-programa-1.html",
             "title": "Programa 1",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2022-08-13T16:26:38+01:00",
             "date_modified": "2022-08-13T16:29:02+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/temporada-3-programa-7.html",
-            "url": "https://islatentaciones.tk/temporada-3-programa-7.html",
-            "title": "Programa 7",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/3856881486362\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas Temporada 3"
-            ],
-            "date_published": "2022-08-12T23:23:32+01:00",
-            "date_modified": "2022-08-13T00:24:45+01:00"
         }
     ]
 }
