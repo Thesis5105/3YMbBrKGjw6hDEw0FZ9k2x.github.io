@@ -14,7 +14,7 @@
             "id": "https://islatentaciones.tk/debate-2-23581.html",
             "url": "https://islatentaciones.tk/debate-2-23581.html",
             "title": "Debate 2",
-            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/46/ba/46ba588f-3112-4a16-90ec-4e51b7c7b0c8/main.ism/picky.m3u8?hdnts=st=1664877949~exp=1664892349~acl=/*~hmac=835ec7bf1a133e6de5ded2254e35f5fa2d836b85d6dd14433c88b06b2f9a055e\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4677579704892\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "islatentaciones"
             },
@@ -23,7 +23,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-10-04T10:37:31+01:00",
-            "date_modified": "2022-10-04T11:09:41+01:00"
+            "date_modified": "2022-10-04T11:24:59+01:00"
         },
         {
             "id": "https://islatentaciones.tk/cambio-en-la-programacion-de-lidlt.html",
@@ -68,7 +68,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-09-27T08:38:49+01:00",
-            "date_modified": "2022-10-04T10:38:25+01:00"
+            "date_modified": "2022-10-04T11:24:37+01:00"
         },
         {
             "id": "https://islatentaciones.tk/temporada-5-programa-1.html",
