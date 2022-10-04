@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate-2-23581.html",
+            "url": "https://islatentaciones.tk/debate-2-23581.html",
+            "title": "Debate 2",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/46/ba/46ba588f-3112-4a16-90ec-4e51b7c7b0c8/main.ism/picky.m3u8?hdnts=st=1664877949~exp=1664892349~acl=/*~hmac=835ec7bf1a133e6de5ded2254e35f5fa2d836b85d6dd14433c88b06b2f9a055e\", parentId: \"#player\"});\n  </script>\n</p>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-10-04T10:37:31+01:00",
+            "date_modified": "2022-10-04T11:09:41+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/cambio-en-la-programacion-de-lidlt.html",
             "url": "https://islatentaciones.tk/cambio-en-la-programacion-de-lidlt.html",
             "title": "Cambio en la programación de LIDLT",
@@ -53,7 +68,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-09-27T08:38:49+01:00",
-            "date_modified": "2022-09-27T08:59:11+01:00"
+            "date_modified": "2022-10-04T10:38:25+01:00"
         },
         {
             "id": "https://islatentaciones.tk/temporada-5-programa-1.html",
@@ -143,21 +158,6 @@
             ],
             "date_published": "2022-08-13T20:27:36+01:00",
             "date_modified": "2022-09-16T08:06:07+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/temporada-3-programa-10.html",
-            "url": "https://islatentaciones.tk/temporada-3-programa-10.html",
-            "title": "Programa 10",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/3862511225370\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas Temporada 3"
-            ],
-            "date_published": "2022-08-13T18:39:11+01:00",
-            "date_modified": "2022-08-13T18:41:27+01:00"
         }
     ]
 }
