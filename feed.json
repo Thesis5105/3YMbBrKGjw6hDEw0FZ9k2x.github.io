@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate-2-23581-2.html",
+            "url": "https://islatentaciones.tk/debate-2-23581-2.html",
+            "title": "Debate 3",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/d6/7c/d67c4ce2-03d2-49cf-bafe-7073e316aeb1/main.ism/picky.m3u8?hdnts=st=1665475972~exp=1665490371~acl=/*~hmac=eb9b4340802ba2d6e7a764e8b20c61596eecb21e57b1dbdec1bb516a2d0af200\", parentId: \"#player\"});\n  </script>\n</p>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-10-11T09:10:47+01:00",
+            "date_modified": "2022-10-11T09:13:03+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/temporada-5-programa-3.html",
             "url": "https://islatentaciones.tk/temporada-5-programa-3.html",
             "title": "Programa 3",
@@ -144,20 +159,6 @@
             ],
             "date_published": "2022-09-15T23:58:27+01:00",
             "date_modified": "2022-09-21T20:47:55+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/la-nueva-web-de-islatentaciones-ml.html",
-            "url": "https://islatentaciones.tk/la-nueva-web-de-islatentaciones-ml.html",
-            "title": "La nueva web de islatentaciones.ml",
-            "summary": "Para los que no lo sepáis, islatentaciones.ml aviso a finales del 2021 que iba a cambiar de dominio para poder ver ‘La isla de las&hellip;",
-            "content_html": "<p>Para los que no lo sepáis, <strong>islatentaciones.ml</strong> aviso a finales del 2021 que iba a cambiar de dominio para poder ver ‘La isla de las tentaciones’ gratis. La nueva web de islatentaciones.ml es<a href=\"https://islatentaciones.tk\"><strong> https://islatentaciones.tk/</strong></a> , es decir, esta misma web.<br><br>Solo tienes que entrar y dispondrás de todos los programas gratis como antes.</p>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-14T14:20:22+01:00",
-            "date_modified": "2022-08-14T14:20:22+01:00"
         }
     ]
 }
