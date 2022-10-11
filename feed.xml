@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-10-11T09:14:59+01:00</updated>
+    <updated>2022-10-11T09:16:39+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,14 +19,14 @@
             <category term="Temporada 5"/>
             <category term="Debates Temporada 5"/>
 
-        <updated>2022-10-11T09:14:59+01:00</updated>
+        <updated>2022-10-11T09:16:39+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <div id="player"></div>
 <p>
 <script>
-    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/d6/7c/d67c4ce2-03d2-49cf-bafe-7073e316aeb1/main.ism/picky.m3u8?hdnts=st=1665475972~exp=1665490371~acl=/*~hmac=eb9b4340802ba2d6e7a764e8b20c61596eecb21e57b1dbdec1bb516a2d0af200", parentId: "#player"});
+    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/1f/2e/1f2ef558-380c-41f5-a619-fa41902962cd/main.ism/picky.m3u8?hdnts=st=1665475972~exp=1665490371~acl=/*~hmac=eb9b4340802ba2d6e7a764e8b20c61596eecb21e57b1dbdec1bb516a2d0af200", parentId: "#player"});
   </script>
 </p>
             ]]>
