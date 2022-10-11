@@ -11,10 +11,10 @@
     },
     "items": [
         {
-            "id": "https://islatentaciones.tk/debate-2-23581-2.html",
-            "url": "https://islatentaciones.tk/debate-2-23581-2.html",
+            "id": "https://islatentaciones.tk/debate-3-097381.html",
+            "url": "https://islatentaciones.tk/debate-3-097381.html",
             "title": "Debate 3",
-            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/1f/2e/1f2ef558-380c-41f5-a619-fa41902962cd/main.ism/picky.m3u8?hdnts=st=1665475972~exp=1665490371~acl=/*~hmac=eb9b4340802ba2d6e7a764e8b20c61596eecb21e57b1dbdec1bb516a2d0af200\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4708235545148\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "author": {
                 "name": "islatentaciones"
             },
@@ -23,7 +23,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-10-11T09:10:47+01:00",
-            "date_modified": "2022-10-11T09:16:39+01:00"
+            "date_modified": "2022-10-11T09:27:50+01:00"
         },
         {
             "id": "https://islatentaciones.tk/temporada-5-programa-3.html",
@@ -38,7 +38,7 @@
                    "Programas Temporada 5"
             ],
             "date_published": "2022-10-06T23:58:37+01:00",
-            "date_modified": "2022-10-07T01:26:28+01:00"
+            "date_modified": "2022-10-11T09:27:23+01:00"
         },
         {
             "id": "https://islatentaciones.tk/debate-2-23581.html",
