@@ -3,12 +3,35 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-10-11T09:27:50+01:00</updated>
+    <updated>2022-10-14T00:29:56+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Programa 4</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/temporada-5-programa-4.html"/>
+        <id>https://islatentaciones.tk/temporada-5-programa-4.html</id>
+            <category term="Temporada 5"/>
+            <category term="Programas Temporada 5"/>
+
+        <updated>2022-10-14T00:29:56+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div id="player"></div>
+<p>
+<script>
+    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/48/a1/48a1d037-04a4-421f-8574-17d531bcc36a/main.ism/picky.m3u8?hdnts=st=1665703762~exp=1665718161~acl=/*~hmac=e1d5f7b2afc41f21bb6f020c31f94f6d26fba5565ad111c48723e2a3aa4d5ac5", parentId: "#player"});
+  </script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 3</title>
         <author>
@@ -176,31 +199,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4637819210300" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rumbo a la isla de las tentaciones</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.tk/rumbo-a-la-isla-de-las-tentaciones.html"/>
-        <id>https://islatentaciones.tk/rumbo-a-la-isla-de-las-tentaciones.html</id>
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-09-21T20:47:55+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Parte 1 Parte 2
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2 class="align-center"><span style="color: #169179;"><strong>Parte 1</strong></span></h2>
-<div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4619329145404" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-<h2 class="align-center"><span style="color: #169179;"><strong>Parte 2</strong></span></h2>
-<div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4629386824252" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
