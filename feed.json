@@ -26,6 +26,21 @@
             "date_modified": "2022-10-27T15:04:11+01:00"
         },
         {
+            "id": "https://islatentaciones.tk/debate-5-24600.html",
+            "url": "https://islatentaciones.tk/debate-5-24600.html",
+            "title": "Debate 5",
+            "image": "https://islatentaciones.tk/media/posts/71/71.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-10-27T15:04:11+01:00",
+            "date_modified": "2022-10-27T15:04:11+01:00"
+        },
+        {
             "id": "https://islatentaciones.tk/temporada-5-programa-5.html",
             "url": "https://islatentaciones.tk/temporada-5-programa-5.html",
             "title": "Programa 4",
@@ -144,20 +159,6 @@
             ],
             "date_published": "2022-09-21T23:48:57+01:00",
             "date_modified": "2022-09-29T00:42:13+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/programacion.html",
-            "url": "https://islatentaciones.tk/programacion.html",
-            "title": "Programación",
-            "summary": "Lunes - El debate de las tentaciones en Cuatro a las 22:45 - La isla de las tentaciones en Telecinco a las 22:50",
-            "content_html": "<h3 class=\"align-center\"><strong><span style=\"color: #169179;\">Lunes</span></strong></h3>\n<p class=\"align-center\">- El debate de las tentaciones en <span style=\"text-decoration: underline; color: #ba372a;\"><strong><a href=\"https://toptele.ml/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ba372a;\">Cuatro</a></strong></span> a las 22:45</p>\n<h3 class=\"align-center\"><strong><span style=\"color: #169179;\">Jueves</span></strong></h3>\n<p class=\"align-center\">- La isla de las tentaciones en <span style=\"color: #236fa1;\"><strong><a href=\"https://toptele.ml/\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #236fa1;\">Telecinco</a></strong></span> a las 22:50</p>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-21T21:03:55+01:00",
-            "date_modified": "2022-10-03T10:42:38+01:00"
         }
     ]
 }
