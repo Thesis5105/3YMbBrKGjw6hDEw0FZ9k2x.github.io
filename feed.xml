@@ -3,7 +3,7 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-10-27T23:32:12+01:00</updated>
+    <updated>2022-10-28T01:34:48+01:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,19 +19,9 @@
             <category term="Temporada 5"/>
             <category term="Programas Temporada 5"/>
 
-        <updated>2022-10-27T23:32:12+01:00</updated>
+        <updated>2022-10-28T01:34:48+01:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://islatentaciones.tk/media/posts/75/75.jpg" alt="Programa 6" />
-                <div id="player"></div>
-<p>
-<script>
-    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/11/2f/112ffacb-534e-4688-95a6-6d27c014f93b/main.ism/picky.m3u8?hdnts=st=1666909697~exp=1666924096~acl=/*~hmac=64df9d07b86fb72c8fcbea6aed1400c8123f6a7114237822a639ff1a9ca3b9f6", parentId: "#player"});
-  </script>
-</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Debate 5</title>
