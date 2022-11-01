@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate7-086423.html",
+            "url": "https://islatentaciones.tk/debate7-086423.html",
+            "title": "Debate 6",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/b2/7b/b27bed4b-e909-4602-8031-6bb3d422f84a/main.ism/picky.m3u8?hdnts=st=1667291325~exp=1667305725~acl=/*~hmac=d5e2efb21ed0140a822836e233d745e4fb5c34b4ec607c5ce589b8fe35959531\", parentId: \"#player\"});\n  </script>\n</p>",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-11-01T08:30:50+00:00",
+            "date_modified": "2022-11-01T08:35:08+00:00"
+        },
+        {
             "id": "https://islatentaciones.tk/programa-6-66681.html",
             "url": "https://islatentaciones.tk/programa-6-66681.html",
             "title": "Programa 6",
@@ -37,7 +52,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-10-27T15:27:21+01:00",
-            "date_modified": "2022-10-27T15:28:02+01:00"
+            "date_modified": "2022-10-29T21:15:57+01:00"
         },
         {
             "id": "https://islatentaciones.tk/debate-4-08712.html",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2022-10-03T10:45:36+01:00",
             "date_modified": "2022-10-03T10:45:36+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/temporada-5-programa-2.html",
-            "url": "https://islatentaciones.tk/temporada-5-programa-2.html",
-            "title": "Programa 2",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4660830800444\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 5",
-                   "Programas Temporada 5"
-            ],
-            "date_published": "2022-09-29T00:09:13+01:00",
-            "date_modified": "2022-09-29T00:42:56+01:00"
         }
     ]
 }

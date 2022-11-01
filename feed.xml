@@ -3,12 +3,35 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-10-28T01:34:48+01:00</updated>
+    <updated>2022-11-01T08:35:08+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Debate 6</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/debate7-086423.html"/>
+        <id>https://islatentaciones.tk/debate7-086423.html</id>
+            <category term="Temporada 5"/>
+            <category term="Debates Temporada 5"/>
+
+        <updated>2022-11-01T08:35:08+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div id="player"></div>
+<p>
+<script>
+    var player = new Clappr.Player({source: "https://vbd.mitele.es/orivod/vod/bitmovin/b2/7b/b27bed4b-e909-4602-8031-6bb3d422f84a/main.ism/picky.m3u8?hdnts=st=1667291325~exp=1667305725~acl=/*~hmac=d5e2efb21ed0140a822836e233d745e4fb5c34b4ec607c5ce589b8fe35959531", parentId: "#player"});
+  </script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 6</title>
         <author>
@@ -33,7 +56,7 @@
             <category term="Temporada 5"/>
             <category term="Debates Temporada 5"/>
 
-        <updated>2022-10-27T15:28:02+01:00</updated>
+        <updated>2022-10-29T21:15:57+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -155,24 +178,6 @@
         <content type="html">
             <![CDATA[
                 <p>Revisa los nuevos dias que se va a emitir LIDLT</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.tk/temporada-5-programa-2.html"/>
-        <id>https://islatentaciones.tk/temporada-5-programa-2.html</id>
-            <category term="Temporada 5"/>
-            <category term="Programas Temporada 5"/>
-
-        <updated>2022-09-29T00:42:56+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4660830800444" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
