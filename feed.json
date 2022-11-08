@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://islatentaciones.tk/debate-7-26653.html",
+            "url": "https://islatentaciones.tk/debate-7-26653.html",
+            "title": "Debate 7",
+            "image": "https://islatentaciones.tk/media/posts/78/78.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 5",
+                   "Debates Temporada 5"
+            ],
+            "date_published": "2022-11-08T08:20:50+00:00",
+            "date_modified": "2022-11-08T08:20:50+00:00"
+        },
+        {
             "id": "https://islatentaciones.tk/programa-7-8513.html",
             "url": "https://islatentaciones.tk/programa-7-8513.html",
             "title": "Programa 7",
@@ -142,21 +157,6 @@
             ],
             "date_published": "2022-10-06T23:58:37+01:00",
             "date_modified": "2022-10-14T01:05:13+01:00"
-        },
-        {
-            "id": "https://islatentaciones.tk/debate-2-23581.html",
-            "url": "https://islatentaciones.tk/debate-2-23581.html",
-            "title": "Debate 2",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"670\" height=\"377\" src=\"//ok.ru/videoembed/4677579704892\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 5",
-                   "Debates Temporada 5"
-            ],
-            "date_published": "2022-10-04T10:37:31+01:00",
-            "date_modified": "2022-10-07T01:25:57+01:00"
         }
     ]
 }

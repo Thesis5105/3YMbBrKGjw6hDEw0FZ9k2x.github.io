@@ -3,12 +3,26 @@
     <title>La isla de las tentaciones</title>
     <link href="https://islatentaciones.tk/feed.xml" rel="self" />
     <link href="https://islatentaciones.tk" />
-    <updated>2022-11-06T20:11:03+00:00</updated>
+    <updated>2022-11-08T08:20:50+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://islatentaciones.tk</id>
 
+    <entry>
+        <title>Debate 7</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://islatentaciones.tk/debate-7-26653.html"/>
+        <id>https://islatentaciones.tk/debate-7-26653.html</id>
+            <category term="Temporada 5"/>
+            <category term="Debates Temporada 5"/>
+
+        <updated>2022-11-08T08:20:50+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Programa 7</title>
         <author>
@@ -153,24 +167,6 @@
         <content type="html">
             <![CDATA[
                 <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4693438499388" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://islatentaciones.tk/debate-2-23581.html"/>
-        <id>https://islatentaciones.tk/debate-2-23581.html</id>
-            <category term="Temporada 5"/>
-            <category term="Debates Temporada 5"/>
-
-        <updated>2022-10-07T01:25:57+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="670" height="377" src="//ok.ru/videoembed/4677579704892" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
