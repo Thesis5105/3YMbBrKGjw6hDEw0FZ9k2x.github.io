@@ -14,6 +14,7 @@
             "id": "https://islatentaciones.tk/debate-7-26653.html",
             "url": "https://islatentaciones.tk/debate-7-26653.html",
             "title": "Debate 7",
+            "content_html": "<div id=\"player\"></div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://vbd.mitele.es/orivod/vod/bitmovin/1b/fe/1bfe1738-7496-4361-a3b1-011f7dcb9732/main.ism/picky.m3u8?hdnts=st=1667909880~exp=1667924280~acl=/*~hmac=68101610eb5f66a4326952dbfaefd601e32733eadf7886849d78d7903222b4bd\", parentId: \"#player\"});\n  </script>\n</p>",
             "image": "https://islatentaciones.tk/media/posts/78/78.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -23,7 +24,7 @@
                    "Debates Temporada 5"
             ],
             "date_published": "2022-11-08T08:20:50+00:00",
-            "date_modified": "2022-11-08T08:20:50+00:00"
+            "date_modified": "2022-11-08T12:19:52+00:00"
         },
         {
             "id": "https://islatentaciones.tk/programa-7-8513.html",
